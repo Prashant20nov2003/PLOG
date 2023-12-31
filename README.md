@@ -1,2 +1,2 @@
 # PLOG
-Static Blog Site written in HUGO(GOLANG Framework)
+Static Blog Site written in HUGO(World Fastest SSG Framework written in Golang)
